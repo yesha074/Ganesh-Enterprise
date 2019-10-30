@@ -1,0 +1,2 @@
+go to genesh enterprise 
+open git bash by right click
