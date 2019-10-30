@@ -1,2 +1,6 @@
 go to genesh enterprise 
 open git bash by right click
+>git add .
+>git commit -m "message or description msg "
+>git commit -v
+>git push -f origin master
